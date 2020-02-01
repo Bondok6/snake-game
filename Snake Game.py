@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #  Snake Game 
 
 import turtle
@@ -188,16 +182,3 @@ while True:
     time.sleep(delay)
 
 wn.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
