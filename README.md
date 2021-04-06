@@ -1,2 +1,2 @@
 # snake-game
-snake game by turtle - python 3
+simple snake game using turtle graphics 
